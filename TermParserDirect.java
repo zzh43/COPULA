@@ -1,15 +1,3 @@
-/** Original by Komatsuda for extracting word 
-  * from HTML files of ClueWeb09 CATB.
-  * Modified by Zheng for removing .DS_Store files.(2019/04/08)
-  */
-
-/*
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.OutputStreamWriter;
-import java.io.PrintWriter;
-import java.io.StringReader;
-*/
 import java.io.*;
 import java.util.Scanner;
 import java.util.regex.Matcher;
