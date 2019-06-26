@@ -1,8 +1,3 @@
-/** Original by Komatsuda for extracting word 
-  * from HTML files of ClueWeb09 CATB.
-  * Modified by Zheng. (2019/04/22)
-  */
-
 import java.io.*;
 
 class CountAvgdl {
