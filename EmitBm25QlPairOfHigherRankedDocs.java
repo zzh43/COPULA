@@ -1,8 +1,3 @@
-/** Original by Komatsuda for extracting word 
-  * from HTML files of ClueWeb09 CATB.
-  * Modified by Zheng. (2019/06/06)
-  */
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
